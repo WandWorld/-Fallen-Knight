@@ -1,6 +1,5 @@
 using UnityEngine;
 
-public class PlayerControler : MonoBehaviour
-{
-
+public class PlayerControler : MonoBehaviour {
+    
 }
